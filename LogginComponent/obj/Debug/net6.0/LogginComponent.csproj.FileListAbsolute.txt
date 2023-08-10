@@ -1,0 +1,12 @@
+C:\Users\facundo.vega\source\repos\AttributesExamples\LogginComponent\bin\Debug\net6.0\LogginComponent.deps.json
+C:\Users\facundo.vega\source\repos\AttributesExamples\LogginComponent\bin\Debug\net6.0\LogginComponent.dll
+C:\Users\facundo.vega\source\repos\AttributesExamples\LogginComponent\bin\Debug\net6.0\LogginComponent.pdb
+C:\Users\facundo.vega\source\repos\AttributesExamples\LogginComponent\obj\Debug\net6.0\LogginComponent.csproj.AssemblyReference.cache
+C:\Users\facundo.vega\source\repos\AttributesExamples\LogginComponent\obj\Debug\net6.0\LogginComponent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facundo.vega\source\repos\AttributesExamples\LogginComponent\obj\Debug\net6.0\LogginComponent.AssemblyInfoInputs.cache
+C:\Users\facundo.vega\source\repos\AttributesExamples\LogginComponent\obj\Debug\net6.0\LogginComponent.AssemblyInfo.cs
+C:\Users\facundo.vega\source\repos\AttributesExamples\LogginComponent\obj\Debug\net6.0\LogginComponent.csproj.CoreCompileInputs.cache
+C:\Users\facundo.vega\source\repos\AttributesExamples\LogginComponent\obj\Debug\net6.0\LogginComponent.dll
+C:\Users\facundo.vega\source\repos\AttributesExamples\LogginComponent\obj\Debug\net6.0\refint\LogginComponent.dll
+C:\Users\facundo.vega\source\repos\AttributesExamples\LogginComponent\obj\Debug\net6.0\LogginComponent.pdb
+C:\Users\facundo.vega\source\repos\AttributesExamples\LogginComponent\obj\Debug\net6.0\ref\LogginComponent.dll

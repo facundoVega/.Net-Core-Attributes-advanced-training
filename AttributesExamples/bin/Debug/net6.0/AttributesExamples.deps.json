@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AttributesExamples/1.0.0": {
+        "dependencies": {
+          "LogginComponent": "1.0.0",
+          "ValidationComponent": "1.0.0"
+        },
+        "runtime": {
+          "AttributesExamples.dll": {}
+        }
+      },
+      "LogginComponent/1.0.0": {
+        "runtime": {
+          "LogginComponent.dll": {}
+        }
+      },
+      "ValidationComponent/1.0.0": {
+        "runtime": {
+          "ValidationComponent.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AttributesExamples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogginComponent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ValidationComponent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
